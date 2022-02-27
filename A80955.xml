@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An order and declaration of His Highness the Lord Protector and his Privy Council, appointing a committee for the army, and receivers general for the third six moneths assessment, commencing the 24th. of June, 1658. part of the three years assessment of thirty five thousand pounds by the moneth, commencing the 24th. of June, 1657.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80955</idno>
+            <idno type="STC">Wing C7120A</idno>
+            <idno type="STC">Thomason E1073_4</idno>
+            <idno type="STC">ESTC R210155</idno>
+            <idno type="EEBO-CITATION">99868980</idno>
+            <idno type="PROQUEST">99868980</idno>
+            <idno type="VID">170634</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80955)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170634)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 160:E1073[4], 249:E1073[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An order and declaration of His Highness the Lord Protector and his Privy Council, appointing a committee for the army, and receivers general for the third six moneths assessment, commencing the 24th. of June, 1658. part of the three years assessment of thirty five thousand pounds by the moneth, commencing the 24th. of June, 1657.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>[1], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills and John Field, Printers to His Highness,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1658]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title; initial letter, text in black letter.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="illustration">
+            <pb facs="tcp:170634:2"/>
+            <p>
+               <figure>
+                  <q xml:lang="lat">PAX QVAERITVR BELLO</q>
+                  <q xml:lang="lat">OLIVARIVS DEI GRA: REIPVB: ANGLIAE, SCOTIAE, ET HIBERNIAE, &amp;<hi rend="sup">c</hi> PROTECTOR</q>
+                  <figDesc>seal of the Commonwealth</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="text">
+            <pb n="1" facs="tcp:170634:1" rendition="simple:additions"/>
+            <head>AN ORDER AND DECLARATION OF His HIGHNESS the LORD PROTECTOR and His Privy Council, appointing a Com<g ref="char:EOLhyphen"/>mittee for the Army, and Receivers Ge<g ref="char:EOLhyphen"/>neral for the third Six Moneths Aſſeſſ<g ref="char:EOLhyphen"/>ment, commencing the 24th. of <hi>June,</hi> 1658. part of the three years Aſſeſſment of Thirty Five Thouſand pounds by the Moneth, commencing the 24th. of <hi>June,</hi> 1657.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by an Act of Parlia<g ref="char:EOLhyphen"/>ment, entituled <hi>(An Act for an Aſſeſſment, at the Rate of Five and thirty thouſand Pounds by the Moneth upon England, Six thou<g ref="char:EOLhyphen"/>ſand Pounds by the Moneth upon Scotland, and Nine thouſand Pounds by the Moneth upon Ireland, for three years, from the 24th. of June, 1657. for a temporary Supply towards the Mainte<g ref="char:EOLhyphen"/>nance of the Armies and Navies of this Common<g ref="char:EOLhyphen"/>wealth.)</hi> it is amongſt other things enacted,
+<pb n="1" facs="tcp:170634:2" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:170634:3"/>That the ſeveral Rules, Directions, Clau<g ref="char:EOLhyphen"/>ſes, and Proviſoes, mentioned &amp; contained in an Act of Parliament, entituled, <hi>(An Act for an Aſſeſsment upon England, at the Rate of Sixty thou<g ref="char:EOLhyphen"/>ſand Pounds by the moneth for three moneths, from the 25th. day of March, 1657. to the 24th. day of June then next enſuing,)</hi> and the Powers &amp; Authori<g ref="char:EOLhyphen"/>ties thereby given to all and every the perſons therein named or mentioned, ſhall endure and have continuance, until the ſaid three years Aſſeſſment ſhall be fully and duly Collected, Levied, and Paid in, according to the true intent and meaning of the ſaid Act; By which laſt mentioned Act, it is Provided and Decla<g ref="char:EOLhyphen"/>red, That in caſe the Ordering and Payment of the Moneys by the ſaid Act appointed, into the immediate Receipt of the Exchequer, ſhall be found inconvenient, ſo as the Moneys rai<g ref="char:EOLhyphen"/>ſed thereby cannot be paid in by the times li<g ref="char:EOLhyphen"/>mited in the ſaid Act, for the ſeaſonable Sup<g ref="char:EOLhyphen"/>ply of the Publique Service; That then it ſhall and may be lawfull for His Highneſs the Lord Protector and Council (if they ſhall ſo judge it fit) to Order and Direct the Mana<g ref="char:EOLhyphen"/>ging, Levying, and Payment of the ſaid Mo<g ref="char:EOLhyphen"/>neys, in ſuch a way, method, and manner, as the Monethly Aſſeſſments for the Army have been formerly managed, rated, and paid: Any thing in the ſaid Act to the contrary thereof in any wiſe notwithſtanding.</p>
+            <p>Now foraſmuch as the Moneys payable upon the Third Six Moneths of the ſaid Aſ<g ref="char:EOLhyphen"/>ſeſſment for three Years, by the ſaid firſt reci<g ref="char:EOLhyphen"/>ted Act, cannot be paid in by the reſpective times limited, into the immediate Receipt of Exchequer, ſo as the ſame may be a ſeaſonable
+<pb n="3" facs="tcp:170634:3"/>Supply for the Publique Service; and that for payment of the Army in their ſeveral Quarters where they lie, there will be a ne<g ref="char:EOLhyphen"/>ceſſity of aſſigning ſome part of the ſaid third Six Moneths of the ſaid Three Years Aſ<g ref="char:EOLhyphen"/>ſeſſment, in the Counties where the ſaid Aſ<g ref="char:EOLhyphen"/>ſeſſments are raiſed: Therefore for the more effectual and orderly managing, levying, pay<g ref="char:EOLhyphen"/>ing, diſpoſing, and iſſuing forth of the Moneys payable upon the ſaid third Six Moneths Aſ<g ref="char:EOLhyphen"/>ſeſſment, commencing the <hi>24th.</hi> of <hi>June, 1658.</hi> part of the ſaid Three Years Aſſeſſment, and of all and every other Sum and Sums of Money already ſet apart, and appointed for the uſe and payment of the Forces of this Commonwealth, or that hereafter ſhall be ſet apart, and appointed for their uſe, before the <hi>25th.</hi> Day of <hi>December</hi> now next coming: It is Ordered by His Highneſs the Lord Pro<g ref="char:EOLhyphen"/>tector, by, and with the Advice and Conſent of His Privy Council, That <hi>John Clerk, Ri<g ref="char:EOLhyphen"/>chard Lucy, Edward Horſeman, James Phillips, Gervaſe Bennet,</hi> and <hi>John Hildſeley,</hi> Eſquires, or any three of them, ſhall be, and are hereby ap<g ref="char:EOLhyphen"/>pointed and authorized to be a Committee for the Army.</p>
+            <p>And it is further Ordered, That all and every the Powers and Authorities, Rules and Directions, which were by an Ordinance of His Highneſs and Council, Entituled, <hi>(An Ordinance appointing a Committee for the Army, and Treaſurers at War,)</hi> publiſhed the <hi>28th.</hi> of <hi>Ja<g ref="char:EOLhyphen"/>nuary, 1653.</hi> or by any Act or Ordinance there<g ref="char:EOLhyphen"/>in mentioned, expreſſed to be given to the Committee for the Army, for the bringing in,
+<pb n="4" facs="tcp:170634:4"/>diſpoſing and iſſuing forth of the Aſſeſſments, and Moneys, in that Ordinance mentioned, or to any other Purpoſes whatſoever, ſhall be, and are hereby given and continued to the Committee for the Army herein named and appointed for the managing, bringing in, diſ<g ref="char:EOLhyphen"/>poſing, and iſſuing forth of the ſaid third Six Moneths Aſſeſſment, commencing the <hi>24th.</hi> of <hi>June, 1658.</hi> part of the ſaid Three Years Aſſeſſment of Thirty five thouſand Pounds by the Moneth, commencing the <hi>24th.</hi> of <hi>June, 1657.</hi> and of all other Moneys that are, or before the ſaid Twenty fifth Day of <hi>Decem<g ref="char:EOLhyphen"/>ber</hi> next coming, ſhall be ſet apart, or appoint<g ref="char:EOLhyphen"/>ed for the uſe of the Armies of this Com<g ref="char:EOLhyphen"/>monwealth; and to all other uſes, intents, and purpoſes whatſoever.</p>
+            <p>And it is further Ordered, That the Treaſurers at War, and alſo the ſeveral and reſpective Commiſſioners, Receivers, Colle<g ref="char:EOLhyphen"/>ctors, Sub-Collectors, and all other Per<g ref="char:EOLhyphen"/>ſons whatſoever, who are, have been, or ſhall be intruſted or imployed in the Aſſeſſing, Col<g ref="char:EOLhyphen"/>lecting, Levying, and Paying of the ſaid third Six Moneths Aſſeſſment, and other Moneys before mentioned, or any part thereof, ſhall ob<g ref="char:EOLhyphen"/>ſerve ſuch Orders and Directions, as ſhall from time to time be made and given forth by the ſaid Committee for the Army, or any three or more of them, in the due execution of the Powers and Truſts hereby given and com<g ref="char:EOLhyphen"/>mitted to them.</p>
+            <p>And it is further Ordered, That <hi>John
+<pb n="5" facs="tcp:170634:4"/> Blackwel,</hi> and <hi>Richard Dean,</hi> Eſquires, (the preſent Treaſurers at War) ſhall be, and are hereby appointed Receivers General for the ſaid third Six Moneths Aſſeſſment, com<g ref="char:EOLhyphen"/>mencing the ſaid <hi>24th.</hi> of <hi>June, 1658.</hi> part of the ſaid Three Years Aſſeſſment of Thirty five thouſand Pounds by the Moneth, com<g ref="char:EOLhyphen"/>mencing the ſaid <hi>24th.</hi> of <hi>June, 1657.</hi>
+            </p>
+            <p>And the Receivers of the reſpective Coun<g ref="char:EOLhyphen"/>ties, Cities, Towns and Places in <hi>England</hi> and <hi>Wales,</hi> and every of them, are hereby au<g ref="char:EOLhyphen"/>thorized and required from time to time, to make Payment of the ſeveral Sums, which ſhall be by them received of all and every Col<g ref="char:EOLhyphen"/>lector and Sub-Collector, upon the ſaid third Six Moneths Aſſeſſment, unto the ſaid Receivers General for the ſaid third Six Moneths Aſſeſſment, at <hi>Guild-Hall, London,</hi> (or at ſuch other Place as hereafter ſhall be by His Highneſs and Council appointed and directed) to be Paid by them into, and Ac<g ref="char:EOLhyphen"/>compted for in the Receipt of His Highneſs Exchequer. And all and every the Acquit<g ref="char:EOLhyphen"/>tance and Acquitances of the ſaid Receivers General for the ſaid third Six Moneths Aſ<g ref="char:EOLhyphen"/>ſeſſment, ſhall be unto the ſaid Receivers for the ſaid Reſpective Counties, Cities, Towns and Places, and every of them, a ſufficient Diſcharge.</p>
+            <p>Provided always, That none of the Pow<g ref="char:EOLhyphen"/>ers hereby given or continued, ſhall extend, or be conſtrued to extend, to Authorize or Im<g ref="char:EOLhyphen"/>power the ſaid Committee for the Army, or
+<pb n="6" facs="tcp:170634:5"/>any other Perſons, to Raiſe or Levy any of the Moneys aforeſaid by Free-Quarter, or Quartering of Souldiers.</p>
+            <closer>
+               <dateline>White-hall, <date>June 3. 1658.</date>
+               </dateline>
+               <signed>
+                  <hi>Hen. Scobel,</hi> Clerk of the Council.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Henry Hills</hi> and <hi>John Field,</hi> Printers to His Highneſs, 1658.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
